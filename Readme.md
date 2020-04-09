@@ -16,7 +16,7 @@ $ sudo vi /etc/apache2/sites-available/000-default.conf
 <VirtualHost *:80>
 	~
     ServerAdmin webmaster@localhost
-	DocumentRoot /var/www/html/php_teacher/17_framework3/public
+	DocumentRoot /var/www/html/PHP-MVC-OOP/public
 
         <Directory /var/www/html>
             Options Indexes FollowSymLinks MultiViews
